@@ -10,3 +10,6 @@
 <?php  
 	echo "test but not fork";
 ?>
+<?php  
+	echo "Ee oiboi";
+?>
