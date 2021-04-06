@@ -7,3 +7,6 @@
 <?php  /*test number 3*/
 	echo "Updating at 3rd time";
 ?>
+<?php  
+	echo "test but not fork";
+?>
